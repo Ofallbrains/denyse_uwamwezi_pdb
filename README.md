@@ -156,7 +156,7 @@ Configure and access Oracle Enterprise Manager to view the database and PDBs.
 
 ### Screenshot
 
-![Task 3 - OEM Dashboard](Screenshots/Task3-OEMdashboard.png)
+![Task 3 - OEM Dashboard](Screenshots/Task3-OEM.png)
 
 *OEM Dashboard showing username 'sys' and de_pdb_27976 in Resources*
 
